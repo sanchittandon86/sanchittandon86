@@ -75,17 +75,32 @@ using API integrations, PostgreSQL, Apache Airflow and AWS.
 
 ---
 
-### 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img
-  src="https://github-readme-stats-sigma-seven-24.vercel.app/api?username=sanchittandon86&show_icons=true&theme=transparent&hide_border=true"
-/>
+  <img
+    src="https://github-readme-stats-sigma-seven-24.vercel.app/api?username=sanchittandon86&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+    height="180"
+    alt="Sanchit Tandon's GitHub Stats"
+  />
 
   <img
-    src="https://github-readme-stats-sigma-seven-24.vercel.app/api/top-langs/?username=sanchittandon86&layout=compact&theme=transparent&hide_border=true"
-    height="170"
-    alt="Sanchit's Top Languages"
+    src="https://github-readme-stats-sigma-seven-24.vercel.app/api/top-langs/?username=sanchittandon86&layout=compact&theme=default&hide_border=true"
+    height="180"
+    alt="Sanchit Tandon's Most Used Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sanchittandon86&theme=dark&hide_border=true"
+    alt="Sanchit Tandon's GitHub Streak"
   />
 </p>
 
